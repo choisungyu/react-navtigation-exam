@@ -54,7 +54,6 @@ let createBottomTabs = () => {
     </MaterialBottomTab.Navigator>
   );
 };
-
 export default class App extends Component {
   render() {
     return (
